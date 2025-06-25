@@ -5,4 +5,6 @@ Experience Glitchtris, a chaotic cyberpunk twist on the classic puzzle game! Dod
 
 ---
 
+![Screenshot](https://github.com/ChrisPirillo/glitchtris/blob/main/assets/screenshot.png?raw=true)
+
 * Try it now: [https://pirillo.com/arcade/glitchtris.html](https://pirillo.com/arcade/glitchtris.html)
